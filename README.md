@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I’m Ronak Punase <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <h3 align="center">Flutter Developer - Android, iOS, Web, macOS</h3>
 
-I'm Innovative and proactive worker, successful developing elegant, groundbreaking website and mobile application designs for demanding clients. Talented in Project Management, Team leadership and independent / team problem solving. Highly organized Multitasking with expertise in scheduling projects, enhancing designs and verifying code. Prepared to offer good team work abilities to team.
-
 Fun Facts : I Do Like Challenge..
 
 <h3> 🙋‍♂️  Want to know more
