@@ -12,11 +12,11 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
 
 ## Projects
  
-✨ [Majestic UI](https://www.majesticui.com/) : Shadcn equivalent for Flutter
+✨ [Majestic UI](https://www.majesticui.com/) - Shadcn equivalent for Flutter
 
-✨ [Inquirely](https://inquirely-web.vercel.app/) :Lets you configure your own AI agents from your own dataset.
+✨ [Inquirely](https://inquirely-web.vercel.app/) - Lets you configure your own AI agents from your own dataset.
 
-🎥 [The CS Guy](https://www.youtube.com/@TheCSGuy) : Flutter Tutorials
+🎥 [The CS Guy](https://www.youtube.com/@TheCSGuy) - Flutter Tutorials
 
 ---
 
