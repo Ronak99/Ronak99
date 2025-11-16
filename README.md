@@ -11,6 +11,8 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
 [inquirely-chat](https://www.npmjs.com/package/inquirely-chat) - NPM package that embeds chat UI for AI agent configured on [Inquirely](https://inquirely-web.vercel.app/).
 
 ## Projects
+
+💰 [MyMoney](https://github.com/Ronak99/MyMoney) - My Money - Expense + Bank Statement parser in Flutter
  
 ✨ [Majestic UI](https://www.majesticui.com/) - Shadcn equivalent for Flutter
 
