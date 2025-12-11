@@ -22,6 +22,14 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake-dark.svg.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <table>
     <tr>
         <td valign="center">
