@@ -27,9 +27,10 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak99/Ronak99/svgs/contribution-snake-game.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ronak99/Ronak99/svgs/contribution-snake-game.svg" />
 </picture>
+
 ---
 
-<table>
+<!-- <table>
     <tr>
         <td valign="center">
             <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ronak99&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=dark'>
@@ -38,4 +39,4 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
         <img src='https://github-readme-stats.vercel.app/api?username=ronak99&show_icons=true&layout=compact&theme=dark'>
         </td>
     </tr>
-</table>
+</table> -->
