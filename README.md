@@ -12,7 +12,7 @@ You can reach out to me on [@LinkedIn](https://www.linkedin.com/in/ronak-punase)
 
 ## Projects
 
-💰 [Spendrift]([https://github.com/Ronak99/MyMoney](https://apps.apple.com/us/app/spendrift/id6761763507)) - Spendrift - Voice Expense + Bank Statement parser for iOS.
+💰 [Spendrift](https://apps.apple.com/us/app/spendrift/id6761763507) - Voice Expense + Bank Statement parser for iOS.
  
 ✨ [Majestic UI](https://www.majesticui.com/) - Shadcn equivalent for Flutter
 
